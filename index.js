@@ -32,6 +32,10 @@ var kittens = [
     return ["Arnold", ...kittens];
   }
   
+ function removeFirstKitten(name) {
+   return 
+ }
+  
   
 
   
