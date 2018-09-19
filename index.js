@@ -28,7 +28,7 @@ var kittens = [
     return [...name, kittens];
   } 
   
-appendKitten("broom")
+appendKitten("Broom")
   
 
   
