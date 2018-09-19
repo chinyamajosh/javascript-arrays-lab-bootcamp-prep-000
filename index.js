@@ -33,7 +33,7 @@ var kittens = [
   }
   
  function removeFirstKitten(name) {
-   return kittems.slice(1)
+   return kittens.slice(1)
  }
   
   
